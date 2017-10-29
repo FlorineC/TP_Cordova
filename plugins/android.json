@@ -1,0 +1,40 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    },
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "fr.florinecercle.devfestApp"
+    }
+  }
+}
