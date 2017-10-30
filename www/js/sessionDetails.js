@@ -141,11 +141,11 @@ function rate(satisfaction) {
 }
 
 function rateVeryDissatisfied() {
-    rate('very_dissatisified');
+    rate('very_dissatisfied');
 }
 
 function rateDissatisfied() {
-    rate('dissatisified');
+    rate('dissatisfied');
 }
 
 function rateNeutral() {
@@ -157,7 +157,7 @@ function rateSatisfied() {
 }
 
 function rateVerySatisfied() {
-    rate('very_satisified');
+    rate('very_satisfied');
 }
 
 function getURLParameter(name) {
